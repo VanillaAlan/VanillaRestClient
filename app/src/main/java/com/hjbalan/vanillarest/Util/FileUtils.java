@@ -1,4 +1,4 @@
-package com.hjbalan.vanillarest.Util;
+package com.hjbalan.vanillarest.util;
 
 import com.hjbalan.vanillarest.ApplicationController;
 

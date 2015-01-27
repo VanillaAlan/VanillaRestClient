@@ -7,7 +7,7 @@ import com.android.volley.Response.Listener;
 import com.android.volley.VolleyError;
 import com.hjbalan.vanillarest.Config;
 import com.hjbalan.vanillarest.R;
-import com.hjbalan.vanillarest.Util.NetWorkUtils;
+import com.hjbalan.vanillarest.util.NetWorkUtils;
 import com.hjbalan.vanillarest.volley.StringParamsRequest;
 import com.hjbalan.vanillarest.volley.VolleyManager;
 

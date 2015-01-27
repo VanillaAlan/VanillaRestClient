@@ -1,4 +1,4 @@
-package com.hjbalan.vanillarest.Util;
+package com.hjbalan.vanillarest.util;
 
 import android.content.Context;
 import android.net.ConnectivityManager;
